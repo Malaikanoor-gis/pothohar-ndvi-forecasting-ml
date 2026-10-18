@@ -1,0 +1,10 @@
+lead_months,comparison,skill,ci95_low,ci95_high,years_better
+1,climate adds to NDVI history (Ridge),0.027,-0.056,0.099,6 of 11
+1,Ridge with climate vs persistence,0.167,0.04,0.269,8 of 11
+1,NDVI-history model vs persistence,0.144,0.066,0.197,8 of 11
+2,climate adds to NDVI history (Ridge),0.01,-0.056,0.091,5 of 11
+2,Ridge with climate vs persistence,0.283,0.155,0.376,8 of 11
+2,NDVI-history model vs persistence,0.276,0.15,0.36,9 of 11
+3,climate adds to NDVI history (Ridge),0.008,-0.061,0.083,5 of 11
+3,Ridge with climate vs persistence,0.336,0.192,0.445,9 of 11
+3,NDVI-history model vs persistence,0.331,0.158,0.452,9 of 11
